@@ -5,7 +5,7 @@ import pytest
 import requests
 from Employee import Employer, Company
 from constants import X_client_URL
-from Database import Database
+from DataBase import Database
 
 employer = Employer()
 company = Company()
