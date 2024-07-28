@@ -1,0 +1,1 @@
+b'{"userToken":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYWRtaW4iLCJpYXQiOjE3MjE0OTY4NTUsImV4cCI6MTcyMTQ5Nzc1NX0.X2Y1FRx97' b'Dmx1fWXoSyQMK1A5k6yGMNTh66_LB29oY0","role":"admin","displayName":"raphael","login":"raphael"}'
